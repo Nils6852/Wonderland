@@ -1,14 +1,14 @@
 # Wonderland
 Utopia how Minimalism to realize
 
-DE
+## DE
 
-# Die Idee ist: 
+#### Die Idee ist: 
               -aus der Konsumgesellschaft auszutreten
               -zu achten was wirklich wichtig im Leben ist (Gemeinschaft)
               -
 
-# Viele Menschen Leben zusammen und benutzen Gegenstände gemeinsam.
+#### Viele Menschen Leben zusammen und benutzen Gegenstände gemeinsam.
   wenn was passiert:
   Man braucht Regeln, Verständnis, einen einfachen Plan oder eine Idee davon.
   
@@ -17,12 +17,12 @@ DE
 
 
 
-EN
+## EN
 
-# The Idea:
+#### The Idea:
             -break out of Consuming
             -look to important things (unity)
             -
-# People live together and use things together.
+#### People live together and use things together.
   what to do:
   We have to build rules, sympathy, a easy plan or a opinion.
