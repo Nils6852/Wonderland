@@ -28,13 +28,9 @@ Utopia how Minimalism to realize
   We have to build rules, sympathy, a easy plan or a opinion.
 
 
-GitHub info: [format syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) 
-
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/) 
-(dont know much on github)
+GitHub info:  [format syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) 
+              [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) 
+              (dont know much on github)
 
 [Read Issue](https://github.com/Nils6852/Wonderland/issues/1#issue-818223414)
 
-
-
-[format syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
